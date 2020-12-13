@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 
 
-public class Pro1 {
+public class PositiveNegative {
 	public static void main() {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();
