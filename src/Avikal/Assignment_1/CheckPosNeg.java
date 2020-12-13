@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Write a Java program that reads a floating-point number and prints "zero" if the number is zero. Otherwise, print "positive" or "negative"
  */
 
-public class Pro3 {
+public class CheckPosNeg {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		float num = obj.nextFloat();

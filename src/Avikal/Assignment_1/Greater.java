@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Take three numbers from the user and print the greatest number.
  */
 
-public class Pro2 {
+public class Greater {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num1, num2, num3;
