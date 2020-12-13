@@ -6,7 +6,7 @@ import java.util.Scanner;
  *   				 #######  QUESTION NO 4    ########
  * Write a Java program that keeps an integer between 1 and 7 from the user and displays the name of the weekday.
  */
-public class Pro4 {
+public class WeekDay {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();

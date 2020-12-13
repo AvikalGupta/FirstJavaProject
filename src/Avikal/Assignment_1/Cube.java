@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Write a program in Java to display the cube of the number up to given an integer
  */
 
-public class Pro9 {
+public class Cube {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();

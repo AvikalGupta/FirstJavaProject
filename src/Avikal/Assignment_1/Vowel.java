@@ -2,7 +2,7 @@ package Avikal.Assignment_1;
 
 
 import java.util.Scanner;
-public class Pro6 {
+public class Vowel {
 
     
   public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class Pro6 {
         else if (!(uprCase || lwrCase))
             System.out.println("Invalid input (not a character)");
         else if (vowel)
-            System.out.println("Vovel");
+            System.out.println("Vowel");
         else
             System.out.println("Consonant");
         

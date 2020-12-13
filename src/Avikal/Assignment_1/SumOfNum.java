@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Write a program in Java to display n terms of natural numbers and their sum.
  */
 
-public class Pro8 {
+public class SumOfNum {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();
