@@ -10,7 +10,7 @@ package Avikal.Assignment_1;
 							e) (false && false) || (true && true)
 							f) (false || false) && (true && true)
  */
-public class Pro20 {
+public class ValuesOf {
 	public static void main(String[] args) {
 		a();
 		b();

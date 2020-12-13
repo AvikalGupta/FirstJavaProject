@@ -6,7 +6,7 @@ import java.util.Scanner;
  *   				 #######  QUESTION NO 14    ########
  * Write a Java program to display Pascal's triangle
  */
-public class Pro14 {
+public class PascalTriangle {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int rowNum = obj.nextInt();

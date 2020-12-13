@@ -6,7 +6,7 @@ import java.util.Scanner;
  *   				 #######  QUESTION NO 16    ########
  * Write a Java program that reads a number in inches, converts it to meters.
  */
-public class Pro16 {
+public class InchToMeter {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		float inch = obj.nextFloat();

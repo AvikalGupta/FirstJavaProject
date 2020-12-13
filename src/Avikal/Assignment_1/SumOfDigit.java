@@ -6,7 +6,7 @@ import java.util.Scanner;
  *   				 #######  QUESTION NO 17    ########
  * .Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer
  */
-public class Pro17 {
+public class SumOfDigit {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();

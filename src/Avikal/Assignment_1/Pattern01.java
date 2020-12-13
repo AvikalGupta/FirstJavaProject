@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Write a program in Java to make such a pattern like right angle triangle with number
 increased by 1.
  */
-public class Pro12 {
+public class Pattern01 {
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		int num = obj.nextInt();

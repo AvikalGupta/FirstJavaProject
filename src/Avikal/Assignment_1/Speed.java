@@ -8,7 +8,7 @@ import java.util.Scanner;
 				 *  and display the speed, in meters per second,
 				 *  kilometers per hour and miles per hour
  */
-public class Pro18 {
+public class Speed {
 	public static void main(String[] args) {
 		
 		Scanner obj = new Scanner(System.in);
