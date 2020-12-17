@@ -5,7 +5,7 @@ public class OuterInnerDemo {
     public static void main(String[] args) {
         Outer outer = new Outer();
         outer.display();
-        Outer.Inner inner = outer.new Inner();
+        Outer.Inner inner = new Outer.Inner();
         inner.display();
     }
 }
@@ -16,7 +16,7 @@ class Outer {
         System.out.println("This is outer class display()");
     }
 
-    class Inner {
+    static class Inner {
         protected void display() {
             System.out.println("This is inner class display()");
         }
