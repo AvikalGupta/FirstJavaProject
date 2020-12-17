@@ -1,5 +1,5 @@
 package Avikal.JavaMasterClass;
-import Avikal.JavaLab.SelectionSortDesc;
+import Avikal.Assignment_2.SelectionSortDesc;
 
 import java.util.Scanner;
 
